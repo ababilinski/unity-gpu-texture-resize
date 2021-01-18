@@ -24,7 +24,7 @@ SOFTWARE.
 
 /* This class allows you to resize an image on the GPU. 
 Resizing an image from 1024px to 8196px 100 times took this method: 00:00:40.8884790
-Resizing an image from 1024px to 8196px 100 times with ResizePro took: 00:00:40.2772761
+Resizing an image from 1024px to 8196px 100 times with Unity.Texture2D.Resize() took: 01:08:08.55
 */
 public class ResizeTool
 {

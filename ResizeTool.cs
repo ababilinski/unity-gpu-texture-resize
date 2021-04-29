@@ -63,4 +63,4 @@ public class ResizeTool
     RenderTexture.ReleaseTemporary(rt);
   }
 }
-}
+
